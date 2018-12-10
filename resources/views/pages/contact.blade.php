@@ -1,7 +1,7 @@
 @extends('layouts.app') 
 @section('content')
 <h1>{{$title}}</h1>
-<p>WarBle your moment and We Share to the world for you.</p>
+<p>There are many ways to reach us and of course Warble is the a great way too..</p>
 <div>
     {!! $map['js'] !!} {!! $map['html'] !!}
 </div>
